@@ -1,14 +1,3 @@
-Add new features to the sourcepawn plugin as required :
-
-The round starts with the message "The game is @greenHumans vs. Zombies@default, humans must kill all the zombies to reach the next level."
-
-By default, Hud Hints shows the number of days in real time and the number of humans
-Number of zombies
-Example "Day {d}/{d} - {s}/nZombies Left: {d} Humans Left: {d}/n " where "{s}" is the name of the current number of days .
-
-Prepend the current number of days before the server name
-Example "[ZRiot Day: {d}/{d}]" .
-
 #pragma semicolon 1
 #define PLUGIN_AUTHOR "jenz, https://steamcommunity.com/id/type_moon/"
 #define PLUGIN_VERSION "1.3"
